@@ -81,14 +81,14 @@ git push origin main
 **Step 3: Verify on GitHub**
 Visit: https://github.com/yourusername/sit737-2025-prac4p
 
-****Author
-Project by: Preeth Ramadoss Kamatchi
+**Author**
+**Project by:** Preeth Ramadoss Kamatchi
 
-University: Deakin University
+**University:** Deakin University
 
-Unit Code: SIT737 - Cloud Native Application Development
+**Unit Code: SIT737** - Cloud Native Application Development
 
-Task: 4.1P - Building a Simple Calculator Microservice** **
+**Task: 4.1P** - Building a Simple Calculator Microservice
 
 
 
