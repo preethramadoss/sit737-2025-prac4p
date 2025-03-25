@@ -15,7 +15,7 @@ Ensure you have:
 
 **Step 1: Clone the Repository**
 
-git clone https://github.com/yourusername/sit737-2025-prac4p.git
+git clone https://github.com/preethramadoss/sit737-2025-prac4p.git
 cd sit737-2025-prac4p
 
 **Step 2: Install Dependencies**
@@ -79,7 +79,7 @@ git commit -m "Added calculator microservice"
 git push origin main
 
 **Step 2: Verify on GitHub**
-Visit: https://github.com/yourusername/sit737-2025-prac4p
+Visit: https://github.com/preethramadoss/sit737-2025-prac4p
 
 **Author**
 **Project by:** Preeth Ramadoss Kamatchi
