@@ -1,0 +1,172 @@
+{"level":"info","message":"New ${operation} operation requested: ${nu1} ${operation} ${num2}","service":"claculator-project"}
+{"level":"info","message":"New ${operation} operation requested: ${nu1} ${operation} ${num2}","service":"claculator-project"}
+{"level":"info","message":"Server is running on port ${port}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New ${operation} operation requested: ${nu1} ${operation} ${num2}","service":"claculator-project"}
+{"level":"info","message":"Server is running on port ${port}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"info","message":"Addition Operation: ${n1} + ${n2} = ${result}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"info","message":"Addition Operation: ${n1} + ${n2} = ${result}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n2","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n2","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n2","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"info","message":"Addition Operation: ${n1} + ${n2} = ${result}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"info","message":"Addition Operation: ${n1} + ${n2} = ${result}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"info","message":"Addition Operation: ${n1} + ${n2} = ${result}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"info","message":"Addition Operation: ${n1} + ${n2} = ${result}","service":"claculator-project"}
+{"level":"info","message":"New ${operation} operation requested: ${nu1} ${operation} ${num2}","service":"claculator-project"}
+{"level":"info","message":"Server is running on port ${port}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"info","message":"Addition Operation: ${n1} + ${n2} = ${result}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"info","message":"Addition Operation: ${n1} + ${n2} = ${result}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"info","message":"Addition Operation: ${n1} + ${n2} = ${result}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"info","message":"Addition Operation: ${n1} + ${n2} = ${result}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n2","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"claculator-project"}
+{"level":"error","message":"Error Arised: ${error.toString()}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"info","message":"Addition Operation: ${n1} + ${n2} = ${result}","service":"claculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"claculator-project"}
+{"level":"info","message":"Addition Operation: ${n1} + ${n2} = ${result}","service":"claculator-project"}
+{"level":"info","message":"New ${operation} operation requested: ${nu1} ${operation} ${num2}","service":"calculator-project"}
+{"level":"info","message":"Server is running on port ${port}","service":"calculator-project"}
+{"level":"info","message":"New add operation requested: ${n1} + ${n2}","service":"calculator-project"}
+{"level":"info","message":"Addition Operation: ${n1} + ${n2} = ${result}","service":"calculator-project"}
+{"level":"info","message":"New ${operation} operation requested: ${nu1} ${operation} ${num2}","service":"calculator-project"}
+{"level":"info","message":"Server is running on port ${port}","service":"calculator-project"}
+{"level":"info","message":"Server is running on port3040","service":"calculator-project"}
+{"level":"info","message":"New add operation requested: 100 and 1000 parameters","service":"calculator-project"}
+{"level":"info","message":"Addition Operation Parameters 100 and 1000 is received","service":"calculator-project"}
+{"level":"info","message":"New add operation requested: 100 and -1000 parameters","service":"calculator-project"}
+{"level":"info","message":"Addition Operation Parameters 100 and -1000 is received","service":"calculator-project"}
+{"level":"info","message":"New add operation requested: 100 and NaN parameters","service":"calculator-project"}
+{"level":"error","message":"Invalid value for n2","service":"calculator-project"}
+{"level":"error","message":"Error Arised:Error: Invalid value for n2","service":"calculator-project"}
+{"level":"info","message":"New add operation requested: NaN and NaN parameters","service":"calculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"calculator-project"}
+{"level":"error","message":"Error Arised:Error: Invalid value for n1","service":"calculator-project"}
+{"level":"info","message":"Server is running on port3040","service":"calculator-project"}
+{"level":"info","message":"New add operation requested: NaN and NaN parameters","service":"calculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"calculator-project"}
+{"level":"error","message":"Error Arised:Error: Invalid value for n1","service":"calculator-project"}
+{"level":"info","message":"New add operation requested: 10 and 10 parameters","service":"calculator-project"}
+{"level":"info","message":"Addition Operation Parameters 10 and 10 is received","service":"calculator-project"}
+{"level":"info","message":"New subtract operation requested: 10 and 10 parameters","service":"calculator-project"}
+{"level":"info","message":"Subtraction Operation Parameters 10 and 10 is received","service":"calculator-project"}
+{"level":"info","message":"New subtract operation requested: 10 and 10 parameters","service":"calculator-project"}
+{"level":"info","message":"Subtraction Operation Parameters 10 and 10 is received","service":"calculator-project"}
+{"level":"info","message":"New subtract operation requested: 200 and 10 parameters","service":"calculator-project"}
+{"level":"info","message":"Subtraction Operation Parameters 200 and 10 is received","service":"calculator-project"}
+{"level":"info","message":"New subtract operation requested: 200 and 10 parameters","service":"calculator-project"}
+{"level":"info","message":"Subtraction Operation Parameters 200 and 10 is received","service":"calculator-project"}
+{"level":"info","message":"Server is running on port3040","service":"calculator-project"}
+{"level":"info","message":"New subtract operation requested: 200 and 10 parameters","service":"calculator-project"}
+{"level":"info","message":"Subtraction Operation Parameters 200 and 10 is received","service":"calculator-project"}
+{"level":"error","message":"Error Arised:ReferenceError: subtract is not defined","service":"calculator-project"}
+{"level":"info","message":"Server is running on port3040","service":"calculator-project"}
+{"level":"info","message":"New subtract operation requested: 200 and 10 parameters","service":"calculator-project"}
+{"level":"info","message":"Subtraction Operation Parameters 200 and 10 is received","service":"calculator-project"}
+{"level":"info","message":"New subtract operation requested: 200 and 300 parameters","service":"calculator-project"}
+{"level":"info","message":"Subtraction Operation Parameters 200 and 300 is received","service":"calculator-project"}
+{"level":"info","message":"New subtract operation requested: 500 and 300 parameters","service":"calculator-project"}
+{"level":"info","message":"Subtraction Operation Parameters 500 and 300 is received","service":"calculator-project"}
+{"level":"info","message":"New multiply operation requested: 5 and 3 parameters","service":"calculator-project"}
+{"level":"info","message":"Multiplication Operation Parameters 5 and 3 is received","service":"calculator-project"}
+{"level":"info","message":"New multiply operation requested: 5 and 5 parameters","service":"calculator-project"}
+{"level":"info","message":"Multiplication Operation Parameters 5 and 5 is received","service":"calculator-project"}
+{"level":"info","message":"New multiply operation requested: 6 and -5 parameters","service":"calculator-project"}
+{"level":"info","message":"Multiplication Operation Parameters 6 and -5 is received","service":"calculator-project"}
+{"level":"info","message":"New divide operation requested: 6 and 3 parameters","service":"calculator-project"}
+{"level":"info","message":"Division Operation Parameters 6 and 3 is received","service":"calculator-project"}
+{"level":"info","message":"New divide operation requested: 16 and 3 parameters","service":"calculator-project"}
+{"level":"info","message":"Division Operation Parameters 16 and 3 is received","service":"calculator-project"}
+{"level":"info","message":"New divide operation requested: 16 and 2 parameters","service":"calculator-project"}
+{"level":"info","message":"Division Operation Parameters 16 and 2 is received","service":"calculator-project"}
+{"level":"info","message":"New divide operation requested: 16 and 0 parameters","service":"calculator-project"}
+{"level":"info","message":"Division Operation Parameters 16 and 0 is received","service":"calculator-project"}
+{"level":"info","message":"New add operation requested: 16 and 0 parameters","service":"calculator-project"}
+{"level":"info","message":"Addition Operation Parameters 16 and 0 is received","service":"calculator-project"}
+{"level":"info","message":"New add operation requested: 16 and 10 parameters","service":"calculator-project"}
+{"level":"info","message":"Addition Operation Parameters 16 and 10 is received","service":"calculator-project"}
+{"level":"info","message":"New add operation requested: 16 and NaN parameters","service":"calculator-project"}
+{"level":"error","message":"Invalid value for n2","service":"calculator-project"}
+{"level":"error","message":"Error Arised:Error: Invalid value for n2","service":"calculator-project"}
+{"level":"info","message":"New add operation requested: NaN and NaN parameters","service":"calculator-project"}
+{"level":"error","message":"Invalid value for n1","service":"calculator-project"}
+{"level":"error","message":"Error Arised:Error: Invalid value for n1","service":"calculator-project"}
+{"level":"info","message":"New add operation requested: 10 and 10 parameters","service":"calculator-project"}
+{"level":"info","message":"Addition Operation Parameters 10 and 10 is received","service":"calculator-project"}
+{"level":"info","message":"New subtract operation requested: 10 and 10 parameters","service":"calculator-project"}
+{"level":"info","message":"Subtraction Operation Parameters 10 and 10 is received","service":"calculator-project"}
+{"level":"info","message":"New multiply operation requested: 10 and 10 parameters","service":"calculator-project"}
+{"level":"info","message":"Multiplication Operation Parameters 10 and 10 is received","service":"calculator-project"}
+{"level":"info","message":"New divide operation requested: 10 and 4 parameters","service":"calculator-project"}
+{"level":"info","message":"Division Operation Parameters 10 and 4 is received","service":"calculator-project"}
