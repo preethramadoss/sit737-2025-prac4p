@@ -55,8 +55,8 @@ Response: { "statuscode": 500, "msg": "Cannot divide by zero" }
 
 **Error Handling
 Error Case	Example Request	Response**
-Missing n1 or n2	/add?n1=10	{ "statuscode": 500, "msg": "Invalid input values" }
-Non-numeric input	/add?n1=abc&n2=5	{ "statuscode": 500, "msg": "Invalid input values" }
+Missing n1 or n2	/add?n1=10	{ "statuscode": 500, "msg": "Invalid input values" } /
+Non-numeric input	/add?n1=abc&n2=5	{ "statuscode": 500, "msg": "Invalid input values" } /
 Division by zero	/div?n1=10&n2=0	{ "statuscode": 500, "msg": "Cannot divide by zero" }
 
 **Logging**
@@ -81,14 +81,14 @@ git push origin main
 **Step 3: Verify on GitHub**
 Visit: https://github.com/yourusername/sit737-2025-prac4p
 
-**Author
+****Author
 Project by: Preeth Ramadoss Kamatchi
 
 University: Deakin University
 
 Unit Code: SIT737 - Cloud Native Application Development
 
-Task: 4.1P - Building a Simple Calculator Microservice** 
+Task: 4.1P - Building a Simple Calculator Microservice** **
 
 
 
