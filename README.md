@@ -78,7 +78,7 @@ git add .
 git commit -m "Added calculator microservice"
 git push origin main
 
-**Step 3: Verify on GitHub**
+**Step 2: Verify on GitHub**
 Visit: https://github.com/yourusername/sit737-2025-prac4p
 
 **Author**
